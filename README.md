@@ -11,11 +11,11 @@ A knowledge base for understanding farcaster and its ecosystem. It doesn't aim f
 FID is a unique identenfier for the farcaster user. It's generated on Optimism chain when users register on farcaster.
 #### Contracts
 
+
+
 | Contract | Address|
-
 |  --------  |  -------  |
-
-| IdRegistry| [0x00000000fcaf86937e41ba038b4fa40baa4b780a](https://optimistic.etherscan.io/address/0x00000000fcaf86937e41ba038b4fa40baa4b780a) |
+| IdRegistry | [0x00000000fcaf86937e41ba038b4fa40baa4b780a](https://optimistic.etherscan.io/address/0x00000000fcaf86937e41ba038b4fa40baa4b780a) |
 
 #### Get FID
 - Call  Public Farcaster Hub API. Replace name(tian7) below with your own account(@xxx)
@@ -95,17 +95,16 @@ In general these contents may occupy 100 KB which means the total size of 200K s
 > * The number of storage units is set to 200,000
 > * The price increases by $7 for each 50k units rented.
 > 
-> Storage Units Consumed	Yearly Price	Monthly Price (reference only)
-> 0 - 50k	$7	$0.58
-> 50k - 100k	$14	$1.16
-> 100k - 150k	$21	$1.75
-> 150k - 200k	$28	$2.33
+> |Storage Units | Consumed	Yearly Price	| Monthly Price (reference only)
+> |----|----|----|
+> |0 - 50k|	$7|	$0.58|
+> |50k - 100k|	$14	|$1.16|
+> |100k - 150k|	$21	|$1.75|
+> |150k - 200k|	$28	|$2.33|
 
 In fact every storage unit can store the same size contents. The different price is for limit the sharp increasment of unit.
 
 #### Contracts
 | Contract | Address|
-
 |  --------  |  -------  |
-
 | StorageRegistry| [0x00000000fcce7f938e7ae6d3c335bd6a1a7c593d](https://optimistic.etherscan.io/address/0x00000000fcce7f938e7ae6d3c335bd6a1a7c593d) |
