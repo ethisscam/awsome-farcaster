@@ -72,7 +72,7 @@ Signer is an entity in represent of FID owner. It's usally a client who're appor
 |  --------  |  -------  |
 | KeyRegistry | [0x00000000fc9e66f1c6d86d750b4af47ff0cc343d](https://optimistic.etherscan.io/address/0x00000000fc9e66f1c6d86d750b4af47ff0cc343d) |
 #### Related Articles
-- [Explain Signer By purplesubmarine](https://paragraph.xyz/@purplesubmarine/farcaster-signers)
+- [Farcaster Signers By purplesubmarine](https://paragraph.xyz/@purplesubmarine/farcaster-signers)
 
 
 ### HUB
