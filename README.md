@@ -107,3 +107,6 @@ In fact every storage unit can store the same size contents. The different price
 | Contract | Address|
 |  --------  |  -------  |
 | StorageRegistry| [0x00000000fcce7f938e7ae6d3c335bd6a1a7c593d](https://optimistic.etherscan.io/address/0x00000000fcce7f938e7ae6d3c335bd6a1a7c593d) |
+
+#### Service
+- [caststorage](https://caststorage.com/): find your storage usage and rent the storage
