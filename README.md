@@ -2,7 +2,6 @@
 # awsome-farcaster
 A knowledge base for understanding farcaster and its ecosystem. It doesn't aim for a complete resource but some I am personally interested. If you want to dig more go to [a16z/awesome-farcaster](https://github.com/a16z/awesome-farcaster)
 
-- [Farcaster](#Farcaster)
 
 ## Farcaster
 - [Protocol Discussion](https://github.com/farcasterxyz/protocol/discussions/)
