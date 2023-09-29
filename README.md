@@ -1,4 +1,3 @@
-
 # awsome-farcaster
 A knowledge base for understanding farcaster and its ecosystem. It doesn't aim for a complete resource but some I am personally interested. If you want to dig more go to [a16z/awesome-farcaster](https://github.com/a16z/awesome-farcaster)
 
@@ -7,7 +6,7 @@ A knowledge base for understanding farcaster and its ecosystem. It doesn't aim f
 - [Protocol Discussion](https://github.com/farcasterxyz/protocol/discussions/)
 
 ### FID
-FID is a unique identenfier for the farcaster user. It's generated on Optimism chain when users register on farcaster.
+FID is a unique identenfier for the farcaster user. It's generated on Optimism chain when users register.
 #### Contracts
 
 
@@ -66,6 +65,15 @@ FID is a unique identenfier for the farcaster user. It's generated on Optimism c
 
 #### Ideas
 - A marketplace for trading FID(launch a FID NFT)
+### Signer
+Signer is an entity in represent of FID owner. It's usally a client who're apporved by the FID owner.
+#### Contract
+| Contract | Address|
+|  --------  |  -------  |
+| KeyRegistry | [0x00000000fc9e66f1c6d86d750b4af47ff0cc343d](https://optimistic.etherscan.io/address/0x00000000fc9e66f1c6d86d750b4af47ff0cc343d) |
+#### Related Articles
+- [Explain Signer By purplesubmarine](https://paragraph.xyz/@purplesubmarine/farcaster-signers)
+
 
 ### HUB
 Hub stores all farcaster datas.  Anyone can run a hub node.
