@@ -28,7 +28,10 @@ FID is a unique identenfier for the farcaster user. It's generated on Optimism c
   "type": "USERNAME_TYPE_FNAME"
 }
 ```
-- Call neynar API. You need a secret API Key.
+
+- Call [airstack API](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/farcaster-users-details#get-farcaster-profile-details-by-farcaster-name)
+  
+- Call neynar API. You need a secret API Key(not free).
 [https://api.neynar.com/v1/farcaster/user-by-username/?api_key={api_key}&username=manan&viewerFid=191
 ](https://api.neynar.com/v1/farcaster/user-by-username/?api_key={api_key}&username=manan&viewerFid=191)
 ```
