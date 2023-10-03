@@ -121,3 +121,12 @@ In fact every storage unit can store the same size contents. The different price
 
 #### Service
 - [caststorage](https://caststorage.com/): find your storage usage and rent the storage
+
+## Warpcast
+[homepage](https://warpcast.com/)
+
+### Cast
+Cast is the content you post and it's stored at Farcaster Hub. Each cast generates a hash and Warpcast use the of the hash as the cast link.
+so a typical cast url is 
+### Channel
+
